@@ -66,7 +66,7 @@ func run(args: [String]) {
             let start = line.index(line.startIndex, offsetBy: location.start)
             let end = line.index(line.startIndex, offsetBy: location.end)
             let word = line[start..<end]
-            print("\(file): [\(location.line+1), \(location.start+1)] \(word)")
+            print("At \(file): [\(location.line+1), \(location.start+1)] \(word)")
         }
     }
 }
