@@ -1,5 +1,5 @@
 # spellcheckcli
-A command line for Source Code spell check.
+A command line for Source Code spell check, especially for Xcode, as the spell check doesn't work in Xcode.
 
 ## Install
 1. Download from https://github.com/WANGjieJacques/spellcheckcli/blob/master/Product/spellcheck?raw=true,
